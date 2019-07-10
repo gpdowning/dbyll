@@ -5,9 +5,8 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
-title: dbyll
+google_analytics: gpdowning
+title: Glenn Downing
 
 defaults:
   -
@@ -18,14 +17,10 @@ defaults:
 
 description: Stylish Jekyll Theme
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
-  email_md5: 726351295ec82e145928582f595aa3aa
+  name: Glenn Downing
+  email: downing@cs.utexas.edu
+  twitter: gpdowning
+  bio: Nothing to be done.
 
 rss_path: feed.xml
 categories_path: categories.html
