@@ -19,8 +19,8 @@ One of the concrete pedagogical tools to come out of that work in '09 is a relat
 
 [<span style="color: blue">Two-stage exams</span>](http://www.cwsei.ubc.ca/resources/files/Two-stage_Exams.pdf) consist of two stages:
 
-1. Individual, between **2/3** and **3/4** of the examination time; a standard formal examination that students complete working alone.
+1. Individual, between **2/3** and **3/4** of the examination time; a standard formal examination that students complete working alone. [**85-90%**]
 
-2. After students turn in their individual exams, small groups solve similar or identical problems during the remainder of the examination time.
+2. After students turn in their individual exams, small groups solve similar or identical problems during the remainder of the examination time. [**15-10%**]
 
 Students’ response to the use of two-stage exams is overwhelmingly positive. In response to a survey, **87%** of the students recommended their continued use.
