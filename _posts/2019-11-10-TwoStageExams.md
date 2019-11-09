@@ -18,3 +18,5 @@ One of the concrete pedagogical tools to come out of that work is a relatively s
 1. Individual, between 2/3 and 3/4 of the examination time; a standard formal examination that students complete working alone.
 
 2. After students turn in their individual exams, small groups solve similar or identical problems during the remainder of the examination time.
+
+Students’ response to the use of two-stage exams is overwhelmingly positive. In response to a survey, 87% of the students recommended their continued use.
