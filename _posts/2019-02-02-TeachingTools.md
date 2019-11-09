@@ -7,6 +7,7 @@ fullview: true
 I wanted to share with you some teaching tool ideas.
 
 Canvas Apps -> Instapoll
+------------------------
 
 There's a new item on the Canvas left sidebar, called UT Canvas Apps.
 
