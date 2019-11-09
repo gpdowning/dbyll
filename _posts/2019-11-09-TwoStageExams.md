@@ -8,7 +8,7 @@ fullview: true
 
 [<span style="color:blue">Eric Mazur</span>](https://en.wikipedia.org/wiki/Eric_Mazur), a physics professor at Harvard, since '90, is credited with popularizing [<span style="color: blue">the flipped classroom</span>](https://en.wikipedia.org/wiki/Flipped_classroom) with the publication of his book [<span style="color: blue">Peer Instruction</span>](https://www.amazon.com/Peer-Instruction-Manual-Eric-Mazur/dp/0135654416/) in '97.
 
-See this [<span style="color: blue">YouTube</span>](https://www.youtube.com/watch?v=Z9orbxoRofI) video.
+Watch this: [<span style="color: blue">Peer Instruction for Active Learning</span>](https://www.youtube.com/watch?v=Z9orbxoRofI) video.
 
 [<span style="color: blue">Carl Wieman</span>](https://en.wikipedia.org/wiki/Carl_Wieman), Nobel Laureate in physics in '01, furthered Mazur's work with the creation of the [<span style="color: blue">Carl Wieman Science Education Initiative (CSWEI)</span>](http://www.cwsei.ubc.ca) at the
 [<span style="color: blue">University of British Columbia (UBC)</span>](https://en.wikipedia.org/wiki/University_of_British_Columbia) in '97.
