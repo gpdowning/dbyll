@@ -98,7 +98,7 @@ Click on the `URL`.
 
 For example:
 
-[<span style="color: blue"><span style="color: blue">cURL</span></span>](https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1)
+[<span style="color: blue"><span style="color: blue">https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1</span></span>](https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1)
 
 It will again show:
 
@@ -110,7 +110,7 @@ Add `?message:hi` to the **end** of the URL.
 
 For example:
 
-[<span style="color: blue"><span style="color: blue">cURL</span></span>](https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1?message:hi)
+[<span style="color: blue"><span style="color: blue">https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1?message:hi</span></span>](https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1?message:hi)
 
 And it will still show:
 
