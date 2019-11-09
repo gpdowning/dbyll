@@ -6,13 +6,13 @@ fullview: true
 
 I wanted to share with you some teaching tool ideas.
 
-### Canvas Apps -> Instapoll
+**Canvas Apps -> Instapoll**
 
 There's a new item on the Canvas left sidebar, called UT Canvas Apps.
 
 Within it, you might want to try UT Instapoll. It's free and does most of what iClicker does.
 
-### Canvas' New Gradebook
+**Canvas' New Gradebook**
 
 In the Canvas Gradebook, assignments and quizzes that were not submitted don't enter into the calculation of the total grade. To fix that you can go to the grade book settings and click on Treat Ungraded as 0.
 
@@ -20,7 +20,7 @@ I prefer to go to an assignment or quiz after its due date and in the setting of
 
 Under Settings -> Feature Options, you can now turn on Canvas' New Gradebook. Within the settings for that, there is now the option of Late Policies. Within that, you can automatically apply a grade for missing submissions. That now frees you from having to do it for every assignment or quiz.
 
-### Docker
+**Docker**
 
 My programming projects require several tools besides a compiler or interpreter, for example, a unit-test tool, a coverage tool, a static analyzer, etc.
 
@@ -28,11 +28,11 @@ I now create a Docker image for each of my classes and push that image to Docker
 
 Students can then pull that image from DockerHub, and no longer have to install that toolchain on their local boxes.
 
-HackerRank
+**HackerRank**
 
 HackerRank allows you to post programming problems in many languages with corresponding tests to verify correctness. I'm now using HackerRank for most of my programming assignments.
 
-### Zoom
+**Zoom**
 
 Zoom is a video-conferencing tool. It's free for meetings of up to 100 people for up to 40 min. It's easy to use, has good quality sound and video, you can share your screen, and you can use a virtual whiteboard.
 
