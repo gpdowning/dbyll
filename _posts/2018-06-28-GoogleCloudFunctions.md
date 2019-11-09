@@ -6,17 +6,17 @@ fullview: true
 
 Just got back from the Google Faculty Institute in Sunnyvale, CA, and I had the pleasure of going with Mary Eberlein from ECE.
 
-My biggest takeaway was learning about Google's new [Cloud Functions](https://cloud.google.com/functions/).
+My biggest takeaway was learning about Google's new [<span style="color: blue">Cloud Functions</span>](https://cloud.google.com/functions/).
 
-Amazon has something similar with [AWS Lambda](https://aws.amazon.com/lambda/).
+Amazon has something similar with [<span style="color: blue">AWS Lambda</span>a](https://aws.amazon.com/lambda/).
 
 Cloud Functions let you write a JavaScript function that visiting a URL will trigger. You get **2,000,000** calls for free.
 
 Here's a trivial example:
 
-Go to [Google Cloud](https://cloud.google.com) and login with your Google credentials.
+Go to [<span style="color: blue">Google Cloud</span>](https://cloud.google.com) and login with your Google credentials.
 
-Sign up here [Google Cloud Education](https://cloud.google.com/edu/) for a Google Cloud Platform account.
+Sign up here [<span style="color: blue">Google Cloud Education</span>](https://cloud.google.com/edu/) for a Google Cloud Platform account.
 
 Then,
 
@@ -98,7 +98,7 @@ Click on the `URL`.
 
 For example:
 
-[https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1](https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1)
+[<span style="color: blue"><span style="color: blue">cURL</span></span>](https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1)
 
 It will again show:
 
@@ -110,7 +110,7 @@ Add `?message:hi` to the **end** of the URL.
 
 For example:
 
-[https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1?message:hi](https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1?message:hi)
+[<span style="color: blue"><span style="color: blue">cURL</span></span>](https://us-central1-poetic-abacus-208617.cloudfunctions.net/function-1?message:hi)
 
 And it will still show:
 
