@@ -11,3 +11,10 @@ fullview: true
 [<span style="color: blue">Carl Wieman</span>](https://en.wikipedia.org/wiki/Carl_Wieman), Nobel Laureate in physics in '01, furthered Mazur's work with the creation of the [<span style="color: blue">Carl Wieman Science Education Initiative (CSWEI)</span>](http://www.cwsei.ubc.ca) at the
 [<span style="color: blue">University of British Columbia (UBC)</span>](https://en.wikipedia.org/wiki/University_of_British_Columbia) in '97.
 
+One of the concrete pedagogical tools to come out of that work is a relatively simple way to introduce [<span style="color: blue">collaborative learning</span>](https://en.wikipedia.org/wiki/Collaborative_learning) and [<span style="color: blue">formative assessment</span>](https://en.wikipedia.org/wiki/Formative_assessment) into an exam.
+
+[<span style="color: blue">Two-stage exams</span>](http://www.cwsei.ubc.ca/resources/files/Two-stage_Exams.pdf) consist of two stages:
+
+1. Individual, between 2/3 and 3/4 of the examination time; a standard formal examination that students complete working alone.
+
+2. After students turn in their individual exams, small groups solve similar or identical problems during the remainder of the examination time.
